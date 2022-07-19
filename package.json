@@ -2,9 +2,9 @@
   "name": "01-presupuesto-fake-api",
   "version": "1.0.0",
   "description": "Fake api para App Presupuesto",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "start": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
