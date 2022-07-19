@@ -1,0 +1,44 @@
+{
+  "tipomovimiento": [
+    {
+      "id": 1,
+      "value": "Ingreso"
+    },
+    {
+      "id": 2,
+      "value": "Egreso"
+    }
+  ],
+  "movimiento": [
+    {
+      "tipoMovimiento": 1,
+      "descripcion": "Salario",
+      "valor": 8500.99,
+      "id": 1
+    },
+    {
+      "tipoMovimiento": 1,
+      "descripcion": "Venta de autos",
+      "valor": 2000.55,
+      "id": 2
+    },
+    {
+      "tipoMovimiento": 2,
+      "descripcion": "Pago de CMR",
+      "valor": 500.52,
+      "id": 3
+    },
+    {
+      "tipoMovimiento": 1,
+      "descripcion": "Gratificacion",
+      "valor": 100.55,
+      "id": 4
+    },
+    {
+      "tipoMovimiento": 2,
+      "descripcion": "Pago de prestamos",
+      "valor": 1050.99,
+      "id": 5
+    }
+  ]
+}
